@@ -1,0 +1,11 @@
+PUT http://localhost:3001/api/settings
+Content-Type: application/json
+
+{
+    "settingsid": 0,
+    "raatti": true,
+    "sportday": 2,
+    "winnersportindoorid": "",
+    "winnersportoutdoorid": "",
+    "winnersportdate": ""
+}
